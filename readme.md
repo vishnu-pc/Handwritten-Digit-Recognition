@@ -16,7 +16,7 @@
 5. Create virtual environment using the following commands
 ```pip install --user virtualenv```
 ```python -m venv env```
-6. Enable the virutal environment.
+6. Enable the virutal environment. (Kill the current terminal in VSCode and open a new one)
 7. Install the following packages:
 ``` pip install numpy ```
 ``` pip install matplotlib ```
